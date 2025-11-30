@@ -61,7 +61,7 @@ If you want to run this travel agency on your local machine, follow these steps:
 
 1.  **Clone the Repo**
     ```bash
-    git clone [https://github.com/Ali-hassan389/ANU-Travels.git]
+    git clone [https://github.com/Ali-hassan389/ANU-Travels-Official.git]
     ```
 
 2.  **Launch**
